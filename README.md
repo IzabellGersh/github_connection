@@ -1,4 +1,6 @@
 # github_connection
+Implemented application that will detect and notify suspicious behavior in an integrated GitHub organization using webhooks.
+
 Working with webhooks locally - I used the ngrok tool (https://ngrok.com/).
 1. Create github organization.
 2. Register webhook used by ngrok:
